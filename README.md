@@ -1,3 +1,25 @@
+<p align="center">
+  
+<a href="www.linkedin.com/in/tomas-poveda-retamosa-143b348b">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+  
+<a href="https://vimeo.com/user7167738">
+<img src="https://img.shields.io/badge/%20-Vimeo-blue" alt="Vimeo" /></a>
+  
+<a href="https://github.com/tpoveda">
+<img src="https://img.shields.io/github/followers/tpoveda?style=social" alt="GitHub"></a>
+
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tpoveda/count.svg" />
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
+</p>
+
 ### Hi there 👋
 
 <!--
