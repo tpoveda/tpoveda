@@ -1,6 +1,6 @@
 <p align="center">
   
-<a href="www.linkedin.com/in/tomas-poveda-retamosa-143b348b">
+<a href="https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
   
 <a href="https://vimeo.com/user7167738">
