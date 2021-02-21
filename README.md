@@ -127,6 +127,22 @@ Collection of tools and libraries intended to be used by riggers to make its lif
 </a>
 </p>
 
+<p>
+<a href="https://github.com/tpRigToolkit/tpRigToolkit-libs-controlrig">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-libs-controlrig&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/tpRigToolkit/tpRigToolkit-tools-controlrig">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-tools-controlrig&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+</p>
+
+
+
+
+
 <!--
 **tpoveda/tpoveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
