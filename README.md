@@ -19,6 +19,8 @@
 
 <hr>
 
+I am **Tomas Poveda**, Technical Artist specialized in character and pipeline technology with a strong programming background that works in the Videogame and Animation industry. Always looking to make artists' life easier. DCC :heart:.
+
 
 
 <!--
