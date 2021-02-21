@@ -47,7 +47,6 @@ DCC agnostic framework that allows the creation of tools that can work under any
 * Complete Qt style/theme manager.
 * And much more ...
 
-<hr>
 
 ## [tpRigToolkit](https://github.com/tpRigToolkit)
 
