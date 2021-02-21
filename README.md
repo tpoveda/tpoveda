@@ -1,4 +1,4 @@
-# Hola 👋
+## Hola 👋
 
 <p align="center">
 <a href="https://github.com/tpoveda">
