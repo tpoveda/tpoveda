@@ -53,6 +53,9 @@ DCC agnostic framework that allows the creation of tools that can work under any
 <a href="https://github.com/tpDcc/tpDcc-core">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
+</p>
+
+<p>
 <a href="https://github.com/tpDcc/tpDcc-libs-python">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-python&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
@@ -84,6 +87,19 @@ DCC agnostic framework that allows the creation of tools that can work under any
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-houdini&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
 </p>
+
+<p>
+<a href="https://github.com/tpDcc/tpDcc-tools-nameit">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-tools-nameit&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+<a href="https://github.com/tpDcc/tpDcc-tools-renamer">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-tools-renamer&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+<a href="https://github.com/tpDcc/tpDcc-tools-scripteditor">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-tools-scripteditor&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+</p>
+
 
 ## [tpRigToolkit](https://github.com/tpRigToolkit)
 
