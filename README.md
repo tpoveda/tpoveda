@@ -49,7 +49,7 @@ DCC agnostic framework that allows the creation of tools that can work under any
 
 <hr>
 
-### tpRigToolkit
+### [tpRigToolkit](https://github.com/tpRigToolkit)
 
 <p align="center">
 <img align="middle" width="64" height="64" src="https://github.com/tpRigToolkit/tpRigToolkit-core/blob/master/tpRigToolkit/resources/icons/default/tprigtoolkit.png"/>
