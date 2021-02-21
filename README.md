@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tpoveda/" alt="LinkedIn"/></a>
 <a href="https://twitter.com/tomipoveda">
 <img src="https://img.shields.io/badge/%20-Vimeo-blue?logo=Twitter&logoColor=white&link=https://twitter.com/tomipoveda" alt="Twitter" /></a>
-</p>
 <a href="https://vimeo.com/tpoveda">
 <img src="https://img.shields.io/badge/%20-Vimeo-blue?logo=Vimeo&logoColor=white&link=https://vimeo.com/tpoveda" alt="Vimeo" /></a>
 </p>
