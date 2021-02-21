@@ -3,14 +3,17 @@
 <a href="https://github.com/tpoveda">
 <img src="https://img.shields.io/github/followers/tpoveda?label=Follow&style=social" alt="Github Follow"/></a> 
 
+[![CodeTime](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/2)](https://codetime.datreks.com)
+
+<a href="https://codetime.datreks.com">
+<img src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/813?logoColor=white%26project=%26recentMS=0%26showProject=true" alt="CodeTime"/></a> 
+
+
 <a href="https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
   
 <a href="https://vimeo.com/user7167738">
 <img src="https://img.shields.io/badge/%20-Vimeo-blue" alt="Vimeo" /></a>
-  
-<a href="https://github.com/tpoveda">
-<img src="https://img.shields.io/github/followers/tpoveda?style=social" alt="GitHub"></a>
 
 </p>
 
