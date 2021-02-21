@@ -121,6 +121,12 @@ Collection of tools and libraries intended to be used by riggers to make its lif
 * Custom data library specific for riggers. Manage all your rigging data based in DCC context and in a visual way.
 * And much more ...
 
+<p>
+<a href="https://github.com/tpRigToolkit/tpRigToolkit-core">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+</p>
+
 <!--
 **tpoveda/tpoveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
