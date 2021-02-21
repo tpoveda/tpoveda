@@ -47,6 +47,11 @@ DCC agnostic framework that allows the creation of tools that can work under any
 * Complete Qt style/theme manager.
 * And much more ...
 
+<p>
+<a href="https://github.com/tpDcc/tpDcc-core">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+</p>
 
 ## [tpRigToolkit](https://github.com/tpRigToolkit)
 
