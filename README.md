@@ -43,13 +43,27 @@ DCC agnostic framework that allows the creation of tools that can work under any
 * Generic DCC objects
 * Inheritance based configuration files system. Your tools can use different configurations based on which DCC you are working on.
 * Generic DCC agnostic TCP client/server implementation. Launch your tool outisde your DCC.
+* Huge collection of Python related utils modules: string management, file IO, etc.
 * Huge collection of Qt widgets. Your tools will look similar no matter which DCC are your workign on.
 * Complete Qt style/theme manager.
+* DCC agnostic Python based unit test framework.
 * And much more ...
 
 <p>
 <a href="https://github.com/tpDcc/tpDcc-core">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+<a href="https://github.com/tpDcc/tpDcc-libs-python">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-python&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+<a href="https://github.com/tpDcc/tpDcc-libs-qt">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-qt&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+<a href="https://github.com/tpDcc/tpDcc-libs-nameit">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-nameit&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+</a>
+<a href="https://github.com/tpDcc/tpDcc-libs-unittests">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-unittests&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
 </p>
 
