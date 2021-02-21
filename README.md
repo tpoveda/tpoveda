@@ -8,7 +8,7 @@
 
 
 <a href="https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/" alt="LinkedIn"/></a> 
   
 <a href="https://vimeo.com/user7167738">
 <img src="https://img.shields.io/badge/%20-Vimeo-blue" alt="Vimeo" /></a>
