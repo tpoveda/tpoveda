@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/" alt="LinkedIn"/></a> 
   
 <a href="https://vimeo.com/user7167738">
-<img src="https://img.shields.io/badge/%20-Vimeo-blue?logo=Vimeo&logoColor=white" alt="Vimeo" /></a>
+<img src="https://img.shields.io/badge/%20-Vimeo-blue?logo=Vimeo&logoColor=white&link=https://vimeo.com/user7167738" alt="Vimeo" /></a>
 
 </p>
 
