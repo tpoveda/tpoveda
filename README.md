@@ -27,7 +27,7 @@ I am **Tomas Poveda**, Software developer & Technical Artist specialized in char
 
 My experience and background allowed me to develop a profile that combines both technical and artistic skills. I love listening and helping my teammates, so they can focus on art rather than the technology to create it.
 
-I am really interested in the followin topics: DCC agnostic development, Character rigging, Machine Learning, ...
+I am really interested in the following topics: DCC agnostic development, Character rigging, Machine Learning, ...
 
 <hr>
 
