@@ -27,7 +27,7 @@ I am really interested in the followin topics: DCC agnostic development, Charact
 
 <hr>
 
-During my spare time I love to invest my time in developing custom tools and frameworks. Here are some of my developments:
+During my spare time I love to invest my time in developing custom tools, frameworks and pipelines. Here are some of my developments:
 
 
 ## [tpDcc](https://github.com/tpDcc)
