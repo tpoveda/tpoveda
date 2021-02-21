@@ -1,30 +1,18 @@
 <p align="center">
-
 <a href="https://github.com/tpoveda">
 <img src="https://img.shields.io/github/followers/tpoveda?label=Follow&style=social" alt="Github Follow"/></a> 
-
 <a href="https://codetime.datreks.com">
 <img src="https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/813" alt="CodeTime"/></a> 
-
-
-<a href="https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/" alt="LinkedIn"/></a> 
-  
-<a href="https://vimeo.com/user7167738">
-<img src="https://img.shields.io/badge/%20-Vimeo-blue?logo=Vimeo&logoColor=white&link=https://vimeo.com/user7167738" alt="Vimeo" /></a>
-
 <a href="https://github.com/tpoveda">
 <img src="https://visitor-badge.glitch.me/badge?page_id=tomaspovedaretamosa" alt="Vimeo" /></a>
-
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tpoveda/count.svg" />
+<a href="https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/" alt="LinkedIn"/></a> 
+<a href="https://vimeo.com/user7167738">
+<img src="https://img.shields.io/badge/%20-Vimeo-blue?logo=Vimeo&logoColor=white&link=https://vimeo.com/user7167738" alt="Vimeo" /></a>
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
+<img src="https://github-readme-stats.vercel.app/api/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 
 ### Hi there 👋
