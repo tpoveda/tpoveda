@@ -30,7 +30,7 @@ I am really interested in the followin topics: DCC agnostic development, Charact
 During my spare time I love to invest my time in developing custom tools and frameworks. Here are some of my developments:
 
 
-### [tpDcc](https://github.com/tpDcc)
+## [tpDcc](https://github.com/tpDcc)
 
 <p align="center">
 <img align="middle" width="64" height="64" src="https://github.com/tpDcc/tpDcc-libs-resources/blob/main/tpDcc/libs/resources/icons/default/tpdcc.png"/>
@@ -49,7 +49,7 @@ DCC agnostic framework that allows the creation of tools that can work under any
 
 <hr>
 
-### [tpRigToolkit](https://github.com/tpRigToolkit)
+## [tpRigToolkit](https://github.com/tpRigToolkit)
 
 <p align="center">
 <img align="middle" width="64" height="64" src="https://github.com/tpRigToolkit/tpRigToolkit-core/blob/master/tpRigToolkit/resources/icons/default/tprigtoolkit.png"/>
