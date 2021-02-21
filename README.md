@@ -1,3 +1,5 @@
+### Hola 👋
+
 <p align="center">
 <a href="https://github.com/tpoveda">
 <img src="https://img.shields.io/github/followers/tpoveda?label=Follow&style=social" alt="Github Follow"/></a> 
@@ -15,7 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 
-### Hi there 👋
+<hr>
 
 <!--
 **tpoveda/tpoveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
