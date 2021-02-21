@@ -13,6 +13,9 @@
 <a href="https://vimeo.com/user7167738">
 <img src="https://img.shields.io/badge/%20-Vimeo-blue?logo=Vimeo&logoColor=white&link=https://vimeo.com/user7167738" alt="Vimeo" /></a>
 
+<a href="https://github.com/tpoveda">
+<img src="https://visitor-badge.glitch.me/badge?page_id=tomaspovedaretamosa" alt="Vimeo" /></a>
+
 </p>
 
 <p align="center"> 
