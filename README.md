@@ -14,10 +14,13 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </p>
 
 <hr>
+
+
 
 <!--
 **tpoveda/tpoveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
