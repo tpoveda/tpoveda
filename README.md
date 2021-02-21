@@ -19,7 +19,22 @@
 
 <hr>
 
-I am **Tomas Poveda**, Technical Artist specialized in character and pipeline technology with a strong programming background that works in the Videogame and Animation industry. Always looking to make artists' life easier. DCC :heart:.
+I am **Tomas Poveda**, Technical Artist specialized in character and pipeline technology with a strong programming background that works in the Videogame and Animation industry. Always looking to make artists' life easier. DCC lover :heart:.
+
+My experience and background allowed me to develop a profile that combines both technical and artistic skills. I love listening and helping my teammates, so they can focus on art rather than the technology to create it.
+
+I am really interested in the followin topics: DCC agnostic development, Character rigging, Machine Learning, ...
+
+<hr>
+
+During my spare time I love to invest my time in developing custom tools and frameworks. Here are some of my developments:
+
+
+<p align="center">
+<img align="middle" src="https://github.com/tpDcc/tpDcc-libs-resources/blob/main/tpDcc/libs/resources/icons/default/tpdcc.png"/>
+</p>
+
+
 
 
 
