@@ -1,4 +1,4 @@
-![alt text](https://github.com/tpoveda/tpoveda/blob/master/cover.png)
+![alt text](https://github.com/tpoveda/tpoveda/blob/master/splash.png)
 
 <h2> Hola / Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
