@@ -33,10 +33,10 @@ During my spare time I love to invest my time in developing custom tools and fra
 ### tpDcc
 
 <p align="center">
-<img align="middle" src="https://github.com/tpDcc/tpDcc-libs-resources/blob/main/tpDcc/libs/resources/icons/default/tpdcc.png"/>
+<img align="middle" width="64" height="64" src="https://github.com/tpDcc/tpDcc-libs-resources/blob/main/tpDcc/libs/resources/icons/default/tpdcc.png"/>
 </p>
 
-DCC agnostic framework that allows the creation of tools that can work under any DCC that supports Python.
+DCC agnostic framework that allows the creation of tools that can work under any DCC that supports Python. The framework contains tools that can be interesting for all people using a specific DCC: nomenclature manager, renamer, etc.
 
 * Python 2 and 3 support
 * Reroute DCC agnostic layer
@@ -47,12 +47,27 @@ DCC agnostic framework that allows the creation of tools that can work under any
 * Complete Qt style/theme manager.
 * And much more ...
 
+<hr>
+
 ### tpRigToolkit
 
 <p align="center">
 <img align="middle" width="64" height="64" src="https://github.com/tpRigToolkit/tpRigToolkit-core/blob/master/tpRigToolkit/resources/icons/default/tprigtoolkit.png"/>
 </p>
 
+Collection of tools and libraries intended to be used by riggers to make its life easier. It uses tpDcc under the hood to work in a DCC agnostic way. At this moment the development is focused in supporting Maya and 3ds Max but in the future the idea is to support other DCCs such as Houdini and Blender.
+
+* Easy rig nomenclature management based on tokens and rules. Easy to iterate.
+* Lots of options to handle joints orientations in an easy.
+* Create rig controls (curves) in a visual way. Easy to edit and share within a team.
+* Absolute control to edit rig controls (color, shapes, mirror, etc).
+* Custom MetaRig implementation based on Red9 MetaNode
+* Meta rig module/component intregration
+  * Attach component
+  * FK/IK chain module
+  * Spine, Libs rig modules, etc
+* Custom data library specific for riggers. Manage all your rigging data based in DCC context and in a visual way.
+* And much more ...
 
 <!--
 **tpoveda/tpoveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
