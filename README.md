@@ -65,6 +65,9 @@ DCC agnostic framework that allows the creation of tools that can work under any
 <a href="https://github.com/tpDcc/tpDcc-libs-unittests">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-unittests&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
+</p>
+
+<p>
 <a href="https://github.com/tpDcc/tpDcc-dccs-maya">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-maya&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
