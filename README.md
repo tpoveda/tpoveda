@@ -30,12 +30,28 @@ I am really interested in the followin topics: DCC agnostic development, Charact
 During my spare time I love to invest my time in developing custom tools and frameworks. Here are some of my developments:
 
 
+### tpDcc
+
 <p align="center">
 <img align="middle" src="https://github.com/tpDcc/tpDcc-libs-resources/blob/main/tpDcc/libs/resources/icons/default/tpdcc.png"/>
 </p>
 
+DCC agnostic framework that allows the creation of tools that can work under any DCC that supports Python.
 
+* Python 2 and 3 support
+* Reroute DCC agnostic layer
+* Generic DCC objects
+* Inheritance based configuration files system. Your tools can use different configurations based on which DCC you are working on.
+* Generic DCC agnostic TCP client/server implementation. Launch your tool outisde your DCC.
+* Huge collection of Qt widgets. Your tools will look similar no matter which DCC are your workign on.
+* Complete Qt style/theme manager.
+* And much more ...
 
+### tpRigToolkit
+
+<p align="center">
+<img align="middle" src="https://github.com/tpRigToolkit/tpRigToolkit-core/blob/master/tpRigToolkit/resources/icons/default/tprigtoolkit.png"/>
+</p>
 
 
 <!--
