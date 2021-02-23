@@ -5,8 +5,6 @@
 <p align="center">
 <a href="https://github.com/tpoveda">
 <img src="https://img.shields.io/github/followers/tpoveda?label=Follow&style=social" alt="Github Follow"/></a> 
-<a href="https://codetime.datreks.com">
-<img src="https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/813" alt="CodeTime"/></a> 
 <a href="https://github.com/tpoveda">
 <img src="https://visitor-badge.glitch.me/badge?page_id=tomaspovedaretamosa" alt="Visitors" /></a>
 <a href="https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/">
