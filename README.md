@@ -35,8 +35,7 @@ I am really interested in the following topics:
 
 <hr>
 
-<iframe src="https://player.vimeo.com/video/517528802" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/517528802">Tomas Poveda - Rigging Pipeline/Tools 2021</a> from <a href="https://vimeo.com/tpoveda">Tom&aacute;s Poveda</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+https://vimeo.com/517528802
 
 <hr>
 
