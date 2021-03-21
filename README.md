@@ -35,10 +35,6 @@ I am really interested in the following topics:
 
 <hr>
 
-![reel](https://user-images.githubusercontent.com/6875035/111923576-2f6cec00-8aa0-11eb-8604-e6d8ebcbc574.mp4)
-
-<hr>
-
 During my spare time I love to invest my time in developing custom tools, frameworks and pipelines. Here are some of my developments:
 
 
