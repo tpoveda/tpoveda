@@ -41,7 +41,7 @@ During my spare time I love to invest my time in developing custom tools, framew
 ## [tpDcc](https://github.com/tpDcc)
 
 <p align="center">
-<img align="middle" width="64" height="64" src="https://github.com/tpDcc/tpDcc-libs-resources/blob/main/tpDcc/libs/resources/icons/default/tpdcc.png"/>
+<img align="middle" width="64" height="64" src="https://github.com/tpDcc/tp-dcc-common/blob/master/tp/common/resources/icons/default/tpdcc.png"/>
 </p>
 
 DCC agnostic framework that allows the creation of tools that can work under any DCC that supports Python. The framework contains tools that can be interesting for all people using a specific DCC: nomenclature manager, renamer, etc.
@@ -58,14 +58,14 @@ DCC agnostic framework that allows the creation of tools that can work under any
 * And much more ...
 
 <p>
-<a href="https://github.com/tpDcc/tpDcc-core">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+<a href="https://github.com/tpDcc/tp-dcc-core">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tp-dcc-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
 </p>
 
 <p>
-<a href="https://github.com/tpDcc/tpDcc-dccs-maya">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-maya&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+<a href="https://github.com/tpDcc/tp-dcc-maya">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tp-dcc-maya&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
 <a href="https://github.com/tpDcc/tpDcc-dccs-max">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-max&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
@@ -82,17 +82,8 @@ DCC agnostic framework that allows the creation of tools that can work under any
 </p>
 
 <p>
-<a href="https://github.com/tpDcc/tpDcc-libs-python">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-python&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-libs-qt">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-qt&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-libs-nameit">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-nameit&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-libs-unittests">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-libs-unittests&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+<a href="https://github.com/tpDcc/tp-dcc-common">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tp-dcc-common&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
 </a>
 </p>
 
