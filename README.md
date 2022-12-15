@@ -16,6 +16,22 @@
 </p>
 
 <p align="center">
+<br>
+<a href="https://github.com/search?q=user%tpoveda+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"></a>
+<a href="https://github.com/search?q=user%tpoveda+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%tpoveda+language%3Aqt"><img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"></a>
+<a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Unity" src="https://img.shields.io/static/v1?message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?message=UnrealEngine&color=000000&logo=unrealengine&logoColor=white&label="></a>
+<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm.svg?logo=pycharm&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<br>
+</p>
+
+<p align="center">
 <img align="middle" src="https://github-readme-stats.vercel.app/api/?username=tpoveda&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"/>
 </p>
 
