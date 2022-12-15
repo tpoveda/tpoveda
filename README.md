@@ -24,7 +24,7 @@
 <a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/static/v1?message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label="></a>
 <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?message=UnrealEngine&color=000000&logo=unrealengine&logoColor=white&label="></a>
-<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm.svg?logo=pycharm&logoColor=white"></a>
+<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
