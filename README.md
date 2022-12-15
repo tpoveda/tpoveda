@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-<br>
 <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></a>
 <a href="https://github.com/search?q=user%tpoveda+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"></a>
 <a href="https://github.com/search?q=user%tpoveda+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
@@ -30,7 +29,6 @@
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Perforce" src="https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?logo=Perforce&logoColor=white"></a>
-<br>
 </p>
 
 <p align="center">
