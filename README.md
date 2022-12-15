@@ -17,6 +17,7 @@
 
 <p align="center">
 <br>
+<a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></a>
 <a href="https://github.com/search?q=user%tpoveda+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"></a>
 <a href="https://github.com/search?q=user%tpoveda+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="https://github.com/search?q=user%tpoveda+language%3Aqt"><img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"></a>
