@@ -119,7 +119,7 @@ DCC agnostic framework that allows the creation of tools that can work under any
 ## [tpRigToolkit](https://github.com/tpRigToolkit)
 
 <p align="center">
-<img align="middle" width="64" height="64" src="https://github.com/tpRigToolkit/tpRigToolkit-core/blob/master/tpRigToolkit/resources/icons/default/tprigtoolkit.png"/>
+<img align="middle" width="64" height="64" src="https://github.com/tpRigToolkit/tpRigToolkit-core/blob/master/tp/rigtoolkit/core/resources/icons/default/tprigtoolkit.png"/>
 </p>
 
 Collection of tools and libraries intended to be used by riggers to make its life easier. It uses tpDcc under the hood to work in a DCC agnostic way. At this moment the development is focused in supporting Maya and 3ds Max but in the future the idea is to support other DCCs such as Houdini and Blender.
