@@ -54,10 +54,10 @@ I am really interested in the following topics:
 During my spare time I love to invest my time in developing custom tools, frameworks and pipelines. Here are some of my developments:
 
 
-## [tpDcc](https://github.com/tpDcc)
+## [tp-dcc]([https://github.com/tpDcc](https://github.com/tpoveda/tp-dcc))
 
 <p align="center">
-<img align="middle" width="64" height="64" src="https://github.com/tpDcc/tp-dcc-common/blob/master/tp/common/resources/icons/default/tpdcc.png"/>
+<img align="middle" width="64" height="64" src="https://github.com/tpDcc/tp-dcc-common/blob/main/packages/tp-dcc-common/tp/common/resources/icons/default/tpdcc.png"/>
 </p>
 
 DCC agnostic framework that allows the creation of tools that can work under any DCC that supports Python. The framework contains tools that can be interesting for all people using a specific DCC: nomenclature manager, renamer, etc.
@@ -73,50 +73,7 @@ DCC agnostic framework that allows the creation of tools that can work under any
 * DCC agnostic Python based unit test framework.
 * And much more ...
 
-<p>
-<a href="https://github.com/tpDcc/tp-dcc-core">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tp-dcc-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-<p>
-<a href="https://github.com/tpDcc/tp-dcc-maya">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tp-dcc-maya&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-dccs-max">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-max&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-dccs-mobu">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-mobu&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-dccs-unreal">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-unreal&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-dccs-houdini">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-dccs-houdini&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-<p>
-<a href="https://github.com/tpDcc/tp-dcc-common">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tp-dcc-common&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-<p>
-<a href="https://github.com/tpDcc/tpDcc-tools-nameit">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-tools-nameit&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-tools-renamer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-tools-renamer&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpDcc/tpDcc-tools-scripteditor">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpDcc&repo=tpDcc-tools-scripteditor&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-
-## [tpRigToolkit](https://github.com/tpRigToolkit)
+## [tp-rigtoolkit]([https://github.com/tpRigToolkit](https://github.com/tpoveda/tp-rigtoolkit))
 
 <p align="center">
 <img align="middle" width="64" height="64" src="https://github.com/tpRigToolkit/tpRigToolkit-core/blob/master/tp/rigtoolkit/core/resources/icons/default/tprigtoolkit.png"/>
@@ -135,61 +92,3 @@ Collection of tools and libraries intended to be used by riggers to make its lif
   * Spine, Libs rig modules, etc
 * Custom data library specific for riggers. Manage all your rigging data based in DCC context and in a visual way.
 * And much more ...
-
-<p>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-core">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-core&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-<p>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-dccs-maya">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-dccs-maya&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-<p>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-libs-controlrig">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-libs-controlrig&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-libs-ziva">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-libs-ziva&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-<p>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-tools-musclespline">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-tools-musclespline&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-tools-interpolateit">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-tools-interpolateit&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-tools-controlrig">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-tools-controlrig&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-tools-jointorient">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-tools-jointorient&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-tools-symmesh">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-tools-symmesh&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-<a href="https://github.com/tpRigToolkit/tpRigToolkit-tools-rigtoolbox">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=tpRigToolkit&repo=tpRigToolkit-tools-rigtoolbox&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
-</a>
-</p>
-
-
-<!--
-**tpoveda/tpoveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
