@@ -54,10 +54,10 @@ I am really interested in the following topics:
 During my spare time I love to invest my time in developing custom tools, frameworks and pipelines. Here are some of my developments:
 
 
-## [tp-dcc]([https://github.com/tpDcc](https://github.com/tpoveda/tp-dcc))
+## [tp-dcc]([[https://github.com/tpDcc](https://github.com/tpoveda/tp-dcc)])
 
 <p align="center">
-<img align="middle" width="64" height="64" src="https://github.com/tpDcc/tp-dcc-common/blob/main/packages/tp-dcc-common/tp/common/resources/icons/default/tpdcc.png"/>
+<img align="middle" width="64" height="64" src="https://github.com/tpoveda/tp-dcc/blob/main/packages/tp-dcc-common/tp/common/resources/icons/default/tpdcc.png"/>
 </p>
 
 DCC agnostic framework that allows the creation of tools that can work under any DCC that supports Python. The framework contains tools that can be interesting for all people using a specific DCC: nomenclature manager, renamer, etc.
