@@ -6,7 +6,7 @@
 <a href="https://github.com/tpoveda">
 <img src="https://img.shields.io/github/followers/tpoveda?label=Follow&style=social" alt="Github Follow"/></a> 
 <a href="https://github.com/tpoveda">
-<img src="https://visitor-badge.glitch.me/badge?page_id=tpoveda" alt="Visitors" /></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftpoveda&count_bg=%235D96A3&title_bg=%23555555&icon=&icon_color=%23797979&title=Visitors&edge_flat=false" alt="Visitors" /></a>
 <a href="https://www.linkedin.com/in/tomas-poveda-retamosa-143b348b/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tpoveda/" alt="LinkedIn"/></a>
 <a href="https://twitter.com/tomipoveda">
