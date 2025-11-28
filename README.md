@@ -112,7 +112,7 @@ print(me.say_hi())
         <b>That's No Moon</b> — Senior Animation TD<br/>
         <sub>Feb 2023 – Present · Remote (Los Angeles)</sub>
         <ul>
-          <li>Animation/rigging tooling and pipeline automation across DCCs and Unreal Engine (Control Rig).</li>
+          <li>Animation tooling and pipeline automation across DCCs and Unreal Engine.</li>
           <li>Driving scalable, artist‑friendly workflows and standards for next‑gen production.</li>
         </ul>
       </td>
