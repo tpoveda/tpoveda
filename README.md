@@ -76,7 +76,7 @@ print(me.say_hi())
 
 **Rigging Pipeline & Tools 2021**
 
-https://github.com/user-attachments/assets/e13670d8-632a-48dd-9e71-9c23c48abe3f
+https://github.com/user-attachments/assets/80f3bc71-573d-4c33-a599-93fec581266b
 
 </div>
 
@@ -137,6 +137,10 @@ https://github.com/user-attachments/assets/e13670d8-632a-48dd-9e71-9c23c48abe3f
         <img src="images/tnm_rounded.png" alt="That's No Moon — Project" style="max-width:100%;height:auto;" loading="lazy"/>
       </td>
     </tr>
+
+https://github.com/user-attachments/assets/ba8bb7bd-de83-4642-bbf3-d4763c55e8f9
+
+
     <tr>
       <td width="60%" valign="top" style="border:none;">
         <b>Counterplay Games</b> — Senior Technical Animator<br/>
@@ -265,6 +269,4 @@ https://github.com/user-attachments/assets/e13670d8-632a-48dd-9e71-9c23c48abe3f
 
 <p align="center" style="margin-top:24px;">
   <img src="images/footer-banner.svg" alt="Made with love ❤️ by Tomi" />
-  
 </p>
-
