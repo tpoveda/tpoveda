@@ -68,6 +68,23 @@ print(me.say_hi())
 </p>
 
 <h3>
+  <img src="images/briefcase.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;" alt="Portfolio icon"/>
+  Portfolio showcase
+</h3>
+
+<div align="center">
+
+**Rigging Pipeline & Tools 2021**
+
+https://github.com/tpoveda/tpoveda/assets/179889818/pipe_rig_reel.mp4
+
+</div>
+
+<p align="center">
+  <img src="images/divider.svg" alt="Section divider" width="100%" height="2"/>
+</p>
+
+<h3>
   <img src="images/wrench.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;" alt="Tech icon"/>
   Tech I use and enjoy
 </h3>
@@ -117,7 +134,7 @@ print(me.say_hi())
         </ul>
       </td>
       <td width="40%" valign="top" align="center" style="border:none;">
-        <img src="images/tnm.jpeg" alt="That's No Moon — Project" style="max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
+        <img src="images/tnm_rounded.png" alt="That's No Moon — Project" style="max-width:100%;height:auto;" loading="lazy"/>
       </td>
     </tr>
     <tr>
@@ -131,8 +148,8 @@ print(me.say_hi())
         </ul>
       </td>
       <td width="40%" valign="top" align="center" style="border:none;">
-        <img src="images/godfall.webp" alt="Godfall" style="max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
-        <img src="images/armatus.jpg" alt="Armatus" style="margin-top:6px;max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
+        <img src="images/godfall_rounded.png" alt="Godfall" style="max-width:100%;height:auto;" loading="lazy"/>
+        <img src="images/armatus_rounded.png" alt="Armatus" style="margin-top:6px;max-width:100%;height:auto;" loading="lazy"/>
       </td>
     </tr>
     <tr>
@@ -145,8 +162,8 @@ print(me.say_hi())
         </ul>
       </td>
       <td width="40%" valign="top" align="center" style="border:none;">
-        <img src="images/bge2.webp" alt="Beyond Good &amp; Evil 2" style="max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
-        <img src="images/ac3remastered.avif" alt="Assassin’s Creed III Remastered" style="margin-top:6px;max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
+        <img src="images/bge2_rounded.png" alt="Beyond Good &amp; Evil 2" style="max-width:100%;height:auto;" loading="lazy"/>
+        <img src="images/ac3remastered_rounded.png" alt="Assassin's Creed III Remastered" style="margin-top:6px;max-width:100%;height:auto;" loading="lazy"/>
       </td>
     </tr>
     <tr>
@@ -159,7 +176,7 @@ print(me.say_hi())
         </ul>
       </td>
       <td width="40%" valign="top" align="center" style="border:none;">
-        <img src="images/prometheanai.jpg" alt="Promethean AI" style="max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
+        <img src="images/prometheanai_rounded.png" alt="Promethean AI" style="max-width:100%;height:auto;" loading="lazy"/>
       </td>
     </tr>
     <tr>
@@ -172,7 +189,7 @@ print(me.say_hi())
         </ul>
       </td>
       <td width="40%" valign="top" align="center" style="border:none;">
-        <img src="images/artella.jpg" alt="Artella Client &amp; Plugins" style="max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
+        <img src="images/artella_rounded.png" alt="Artella Client &amp; Plugins" style="max-width:100%;height:auto;" loading="lazy"/>
         <br/>
         <a href="https://github.com/artella" title="Artella on GitHub" aria-label="Artella on GitHub">
           <img src="https://img.shields.io/badge/GitHub-artella-181717?logo=github&logoColor=white" alt="Artella on GitHub" style="margin-top:8px;"/>
@@ -188,7 +205,7 @@ print(me.say_hi())
         </ul>
       </td>
       <td width="40%" valign="top" align="center" style="border:none;">
-        <img src="images/uegear.jpg" alt="ueGear Plugin" style="max-width:100%;height:auto;border-radius:10px;" loading="lazy"/>
+        <img src="images/uegear_rounded.png" alt="ueGear Plugin" style="max-width:100%;height:auto;" loading="lazy"/>
         <br/>
         <a href="https://github.com/mgear-dev/ueGear" title="ueGear repository" aria-label="ueGear repository">
           <img src="https://img.shields.io/badge/GitHub-ueGear-181717?logo=github&logoColor=white" alt="ueGear repository" style="margin-top:8px;"/>
