@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="playGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3DAFBD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2dd4bf;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative grid pattern -->
+  <g opacity="0.1">
+    <path d="M0 0 L1280 0 L1280 720 L0 720 Z" fill="none" stroke="#3DAFBD" stroke-width="1"/>
+    <line x1="640" y1="0" x2="640" y2="720" stroke="#3DAFBD" stroke-width="1"/>
+    <line x1="0" y1="360" x2="1280" y2="360" stroke="#3DAFBD" stroke-width="1"/>
+    <line x1="320" y1="0" x2="320" y2="720" stroke="#3DAFBD" stroke-width="1"/>
+    <line x1="960" y1="0" x2="960" y2="720" stroke="#3DAFBD" stroke-width="1"/>
+    <line x1="0" y1="180" x2="1280" y2="180" stroke="#3DAFBD" stroke-width="1"/>
+    <line x1="0" y1="540" x2="1280" y2="540" stroke="#3DAFBD" stroke-width="1"/>
+  </g>
+  
+  <!-- Main title -->
+  <text x="640" y="280" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Rigging Pipeline &amp; Tools
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="640" y="330" font-family="Arial, sans-serif" font-size="32" fill="#94a3b8" text-anchor="middle">
+    Tomás Poveda • 2021
+  </text>
+  
+  <!-- Play button circle with shadow -->
+  <circle cx="640" cy="450" r="80" fill="url(#playGradient)" filter="url(#shadow)" opacity="0.95"/>
+  
+  <!-- Play icon -->
+  <path d="M 610 420 L 610 480 L 670 450 Z" fill="#ffffff"/>
+  
+  <!-- Duration badge -->
+  <rect x="1150" y="30" width="100" height="40" rx="20" fill="#000000" opacity="0.7"/>
+  <text x="1200" y="57" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">
+    2:34
+  </text>
+  
+  <!-- Tech tags -->
+  <g transform="translate(640, 580)">
+    <rect x="-280" y="0" width="120" height="32" rx="16" fill="#3DAFBD" opacity="0.3"/>
+    <text x="-220" y="22" font-family="Arial, sans-serif" font-size="16" fill="#3DAFBD" text-anchor="middle">
+      Python
+    </text>
+    
+    <rect x="-140" y="0" width="100" height="32" rx="16" fill="#3DAFBD" opacity="0.3"/>
+    <text x="-90" y="22" font-family="Arial, sans-serif" font-size="16" fill="#3DAFBD" text-anchor="middle">
+      Maya
+    </text>
+    
+    <rect x="-20" y="0" width="100" height="32" rx="16" fill="#3DAFBD" opacity="0.3"/>
+    <text x="30" y="22" font-family="Arial, sans-serif" font-size="16" fill="#3DAFBD" text-anchor="middle">
+      Qt/PySide
+    </text>
+    
+    <rect x="100" y="0" width="120" height="32" rx="16" fill="#3DAFBD" opacity="0.3"/>
+    <text x="160" y="22" font-family="Arial, sans-serif" font-size="16" fill="#3DAFBD" text-anchor="middle">
+      Pipeline TD
+    </text>
+  </g>
+  
+  <!-- Corner accent -->
+  <path d="M 0 0 L 100 0 L 0 100 Z" fill="#3DAFBD" opacity="0.2"/>
+  <path d="M 1280 720 L 1180 720 L 1280 620 Z" fill="#3DAFBD" opacity="0.2"/>
+</svg>

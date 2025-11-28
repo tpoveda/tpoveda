@@ -76,7 +76,7 @@ print(me.say_hi())
 
 **Rigging Pipeline & Tools 2021**
 
-https://github.com/tpoveda/tpoveda/assets/179889818/pipe_rig_reel.mp4
+[![Watch the video](https://raw.githubusercontent.com/tpoveda/tpoveda/master/images/video-thumbnail.svg)](https://raw.githubusercontent.com/tpoveda/tpoveda/master/videos/pipe_rig_reel.mp4)
 
 </div>
 
