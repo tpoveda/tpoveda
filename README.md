@@ -137,10 +137,6 @@ https://github.com/user-attachments/assets/80f3bc71-573d-4c33-a599-93fec581266b
         <img src="images/tnm_rounded.png" alt="That's No Moon — Project" style="max-width:100%;height:auto;" loading="lazy"/>
       </td>
     </tr>
-
-https://github.com/user-attachments/assets/ba8bb7bd-de83-4642-bbf3-d4763c55e8f9
-
-
     <tr>
       <td width="60%" valign="top" style="border:none;">
         <b>Counterplay Games</b> — Senior Technical Animator<br/>
