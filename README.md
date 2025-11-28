@@ -68,7 +68,7 @@ print(me.say_hi())
 </p>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/wrench.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="Tech icon"/>
+  <img src="images/wrench.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;" alt="Tech icon"/>
   Tech I use and enjoy
 </h3>
 
@@ -88,7 +88,7 @@ print(me.say_hi())
 </p>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/trending-up.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="Interests icon"/>
+  <img src="images/trending-up.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;" alt="Interests icon"/>
   What I'm into lately
 </h3>
 
@@ -101,7 +101,7 @@ print(me.say_hi())
 </p>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/briefcase.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="Career icon"/>
+  <img src="images/briefcase.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;" alt="Career icon"/>
   Career highlights
 </h3>
 
@@ -203,7 +203,7 @@ print(me.say_hi())
 </p>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/chart-line.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="Metrics icon"/>
+  <img src="images/chart-line.svg" width="20" height="20" style="vertical-align:text-bottom;margin-right:6px;" alt="Metrics icon"/>
   Featured metrics
 </h3>
 
@@ -233,16 +233,16 @@ print(me.say_hi())
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tpoveda/" aria-label="LinkedIn" title="LinkedIn" style="margin:0 10px;">
-    <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/linkedin.svg" width="26" height="26" style="vertical-align:middle;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="LinkedIn"/>
+    <img src="images/linkedin.svg" width="26" height="26" style="vertical-align:middle;" alt="LinkedIn"/>
   </a>
   <a href="https://www.tomipoveda.com" aria-label="Website/Portfolio" title="Website/Portfolio" style="margin:0 10px;">
-    <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/web.svg" width="26" height="26" style="vertical-align:middle;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="Website"/>
+    <img src="images/web.svg" width="26" height="26" style="vertical-align:middle;" alt="Website"/>
   </a>
   <a href="https://twitter.com/tomipoveda" aria-label="X (Twitter)" title="X (Twitter)" style="margin:0 10px;">
-    <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/twitter.svg" width="26" height="26" style="vertical-align:middle;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="Twitter"/>
+    <img src="images/twitter.svg" width="26" height="26" style="vertical-align:middle;" alt="Twitter"/>
   </a>
   <a href="https://vimeo.com/tpoveda" aria-label="Vimeo" title="Vimeo" style="margin:0 10px;">
-    <img src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/vimeo.svg" width="26" height="26" style="vertical-align:middle;filter: invert(56%) sepia(58%) saturate(1418%) hue-rotate(165deg) brightness(97%) contrast(101%);" alt="Vimeo"/>
+    <img src="images/vimeo.svg" width="26" height="26" style="vertical-align:middle;" alt="Vimeo"/>
   </a>
 </p>
 
