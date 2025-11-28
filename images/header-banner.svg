@@ -1,0 +1,61 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tomás Poveda — Software Developer &amp; Pipeline TD">
+  <title>Tomás Poveda — Software Developer &amp; Pipeline TD</title>
+
+  <defs>
+    <!-- Darker background gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1324"/>
+      <stop offset="100%" stop-color="#0b1b2c"/>
+    </linearGradient>
+
+    <!-- Bottom fade-out-to-transparent mask -->
+    <linearGradient id="fadeGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="78%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="bottomFade" maskUnits="userSpaceOnUse">
+      <rect width="1200" height="160" fill="url(#fadeGradient)"/>
+    </mask>
+  </defs>
+
+  <style>
+    :root { color-scheme: dark; }
+    .bg { fill: url(#bgGrad); }
+    text { fill: #d6dde5; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", sans-serif; }
+    .title { font-size: 22px; font-weight: 600; letter-spacing: .2px; opacity: 0; animation: fadeUp 900ms ease-out 150ms forwards; }
+    .subtitle { font-size: 14px; font-weight: 500; opacity: 0; animation: fadeUp 900ms ease-out 350ms forwards; }
+    .tagline { font-size: 12px; fill: #b6c2cf; opacity: 0; animation: fadeUp 900ms ease-out 550ms forwards; }
+
+    .wave1, .wave2, .wave3 { transform: translateX(0); will-change: transform; }
+    .wave1 { opacity: .35; animation: drift1 18s linear infinite; }
+    .wave2 { opacity: .25; animation: drift2 24s linear infinite; }
+    .wave3 { opacity: .18; animation: drift3 32s linear infinite; }
+
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(6px);} to { opacity: 1; transform: translateY(0);} }
+    @keyframes drift1 { from { transform: translateX(0);} to { transform: translateX(-60px);} }
+    @keyframes drift2 { from { transform: translateX(0);} to { transform: translateX(60px);} }
+    @keyframes drift3 { from { transform: translateX(0);} to { transform: translateX(-40px);} }
+
+    @media (prefers-reduced-motion: reduce) {
+      .wave1, .wave2, .wave3 { animation: none; }
+      .title, .subtitle, .tagline { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <!-- Masked group ensures bottom transparency fade -->
+  <g mask="url(#bottomFade)">
+    <rect class="bg" width="1200" height="160"/>
+
+    <!-- Subtle parallax waves (oversized paths to allow horizontal drift) -->
+    <g transform="translate(-100,0)">
+      <path class="wave1" fill="#1e4e68" d="M-100 130 C 120 122, 240 137, 420 131 C 600 125, 780 138, 980 130 C 1180 121, 1340 137, 1500 131 L 1500 174 L -100 174 Z"/>
+      <path class="wave2" fill="#1a445b" d="M-100 135 C 80 128, 260 144, 460 138 C 660 132, 860 145, 1080 137 C 1260 129, 1420 142, 1500 140 L 1500 174 L -100 174 Z"/>
+      <path class="wave3" fill="#163b50" d="M-100 142 C 140 135, 320 150, 520 144 C 720 138, 940 151, 1140 145 C 1320 140, 1440 150, 1500 148 L 1500 174 L -100 174 Z"/>
+    </g>
+  </g>
+
+  <!-- Centered text with fade-in -->
+  <text class="title" x="600" y="45" text-anchor="middle">Tomi Poveda</text>
+  <text class="subtitle" x="600" y="75" text-anchor="middle">Software Developer &amp; Pipeline TD</text>
+  <text class="tagline" x="600" y="105" text-anchor="middle">DCC · Maya · Unreal · Qt · Python · C++ · Web Services/APIs</text>
+</svg>

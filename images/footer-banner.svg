@@ -1,0 +1,59 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="typed with love ❤️ by Tomi">
+  <title>typed with love ❤️ by Tomi</title>
+
+  <defs>
+    <!-- Dark background gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1324"/>
+      <stop offset="100%" stop-color="#0b1b2c"/>
+    </linearGradient>
+
+    <!-- Top fade-to-transparent mask (so it blends into the page above) -->
+    <linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="28%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="topFade" maskUnits="userSpaceOnUse">
+      <rect width="1200" height="140" fill="url(#fadeTop)"/>
+    </mask>
+  </defs>
+
+  <style>
+    :root { color-scheme: dark; }
+    .bg { fill: url(#bgGrad); }
+    text { fill: #d6dde5; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", sans-serif; }
+    .tag { font-size: 14px; font-weight: 600; letter-spacing: .2px; opacity: 0; animation: fadeUp 800ms ease-out 250ms forwards; }
+
+    .wave1, .wave2, .wave3 { will-change: transform; }
+    .wave1 { opacity: .35; animation: drift1 20s linear infinite; }
+    .wave2 { opacity: .25; animation: drift2 26s linear infinite; }
+    .wave3 { opacity: .18; animation: drift3 34s linear infinite; }
+
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(6px);} to { opacity: 1; transform: translateY(0);} }
+    @keyframes drift1 { from { transform: translateX(0);} to { transform: translateX(-60px);} }
+    @keyframes drift2 { from { transform: translateX(0);} to { transform: translateX(60px);} }
+    @keyframes drift3 { from { transform: translateX(0);} to { transform: translateX(-40px);} }
+
+    @media (prefers-reduced-motion: reduce) {
+      .wave1, .wave2, .wave3 { animation: none; }
+      .tag { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <!-- Masked group ensures top transparency fade -->
+  <g mask="url(#topFade)">
+    <rect class="bg" width="1200" height="140"/>
+
+    <!-- Waves at the top edge (slight parallax) -->
+    <g>
+      <!-- draw above downwards so the wave sits on top edge -->
+      <path class="wave1" fill="#163b50" d="M0 0 L0 20 C 160 30, 320 10, 480 20 C 640 30, 800 10, 960 20 C 1080 28, 1140 18, 1200 16 L 1200 0 Z"/>
+      <path class="wave2" fill="#1a445b" d="M0 0 L0 28 C 180 38, 340 18, 520 28 C 700 38, 880 18, 1060 26 C 1140 30, 1180 24, 1200 22 L 1200 0 Z"/>
+      <path class="wave3" fill="#1e4e68" d="M0 0 L0 36 C 140 44, 300 26, 480 34 C 660 42, 860 24, 1060 34 C 1140 38, 1180 32, 1200 30 L 1200 0 Z"/>
+    </g>
+  </g>
+
+  <!-- Centered footer tag line -->
+  <text class="tag" x="600" y="96" text-anchor="middle">Made with love ❤️ by Tomi</text>
+</svg>
