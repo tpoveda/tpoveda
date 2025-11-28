@@ -220,7 +220,7 @@ print(me.say_hi())
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpoveda&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tpoveda&theme=onedark&no-frame=true&margin-w=10&margin-h=10&title=-Reviews" alt="Trophies" />
 </p>
 
 <p align="center">
